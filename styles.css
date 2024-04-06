@@ -1,8 +1,12 @@
+/* Import Abril Fatface font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 /* styles.css content */
 body {
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
 }
 
 h1 {
-    color: blue;
+    font-family: 'Abril Fatface', cursive;
+    color: #67000D; /* Dark Crimson */
 }
